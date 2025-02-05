@@ -4,4 +4,4 @@ var b=23;
 var c=a+b;
 document.write(c);
 
-  </script>
+</script>
